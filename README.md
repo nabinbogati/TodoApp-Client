@@ -24,11 +24,11 @@ If you have any feedback, please reach out to me at nabin31bogati@gmail.com
 Clone the project
 
 ```bash
-  git clone https://github.com/nabinbogati/TodoAPP-Web.git
+  git clone https://github.com/nabinbogati/TodoAPP-Client.git
 ```
 Go to project directory
 ```
-  cd TodoAPP
+  cd TodoAPP-Client
 ```
 
 Install Dependencies & Run
