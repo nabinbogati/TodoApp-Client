@@ -2,15 +2,6 @@
 
 A web client for - TodoAPP.
 
-## Roadmap
-
-- Implement core CRUD operations for tasks
-- Integrate with backend API
-- Enable collaborative task management
-  * Task assignment & notifications
-  * Role-based access control
-  * Real-time collaborative editing
-
 ## Tech Stack
 
 **Client:** React, TypeScript, Vite
